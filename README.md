@@ -4,7 +4,6 @@
 A versatile desktop application designed to streamline your writing process with the power of generative AI. Built with Python and CustomTkinter, this tool provides a structured environment for writers, developers, and content creators to organize their work, generate new ideas, and refine existing text.
 
 ![AI Content Assistant Screenshot](https://raw.githubusercontent.com/single-spider/Content-Assist-An-AI-Powered-Content-Creation-Assistant-System/main/main_ui.png)
-*(It's highly recommended to replace the link above with an actual screenshot or GIF of your application in action!)*
 
 ---
 
